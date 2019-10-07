@@ -1,2 +1,4 @@
 print("Hello girl")
 print("hello")
+print("my test hello")
+print("my test hello twice")
