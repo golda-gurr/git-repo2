@@ -1,1 +1,2 @@
 print("otkat koda")
+print("первый откат кода")
